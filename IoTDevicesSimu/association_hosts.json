@@ -1,0 +1,12 @@
+{"name":"sc01","ip":"10.0.0.1","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc02","ip":"10.0.0.2","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc03","ip":"10.0.0.3","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc04","ip":"10.0.0.4","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc05","ip":"10.0.0.5","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc06","ip":"10.0.0.7","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc07","ip":"10.0.0.8","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc08","ip":"10.0.0.9","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc09","ip":"10.0.0.10","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc10","ip":"10.0.0.11","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc11","ip":"10.0.0.12","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
+{"name":"sc12","ip":"10.0.0.13","type":"temperatureSensor","gateway":"10.0.0.6","name_gateway":"h6","collect":"15000","publish":"15000"}
