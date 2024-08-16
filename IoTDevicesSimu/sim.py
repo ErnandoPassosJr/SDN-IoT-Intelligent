@@ -161,13 +161,16 @@ def init_flow(net):
 
 if __name__ == '__main__':
 	lg.setLogLevel( 'info')
-	net = Mininet(link=TCLink)
+	
+    
+    c0 = Controller( 'c0', port=6633 )
+    net = Mininet(link=TCLink)
     
     
     
 	import create_topo
 	create_topo.create(net)
-	
+	net.addController(c)
 	rootnode = connectToInternet( net )
 	
 	init_gateways(net)
